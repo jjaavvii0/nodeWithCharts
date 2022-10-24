@@ -1,0 +1,1725 @@
+{
+  "count": 191,
+  "coupons": [
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "buy-one-get-one",
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-07",
+      "promotion_type": "dollar-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-04",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "dollar-off",
+      "value": 10,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 70,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 80,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-04-08",
+      "last_seen": "2017-09-06",
+      "promotion_type": "free-gift",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-05",
+      "last_seen": "2017-09-07",
+      "promotion_type": "dollar-off",
+      "value": 75,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-25",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 60,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 60,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-06",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-04-12",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-02",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "dollar-off",
+      "value": 10,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-06",
+      "promotion_type": "dollar-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-25",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-03-22",
+      "last_seen": "2017-09-06",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-04",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-27",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-14",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-19",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 15,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-03-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-14",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-04",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-11",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-05",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-18",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "dollar-off",
+      "value": 10,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-04",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-02-05",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 8,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 70,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 30,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 65,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 30,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2016-11-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 10,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-21",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-03-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-16",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-gift",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "buy-one-get-one",
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-03-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-06",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-05",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-25",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 33,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-19",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 75,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-03",
+      "last_seen": "2017-09-04",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-03-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-07-25",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2016-11-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 15,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-05",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-03-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-01-17",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-04-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-14",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 75,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-05",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-25",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-03-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 10,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-03",
+      "last_seen": "2017-09-04",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Spring Codes",
+      "first_seen": "2017-03-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": "dollar-off",
+      "value": 150,
+      "webshop_id": "spring"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 70,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-18",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-05-31",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-06",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-02",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-02",
+      "last_seen": "2017-09-04",
+      "promotion_type": "dollar-off",
+      "value": 10,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 30,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-04",
+      "promotion_type": "dollar-off",
+      "value": 10,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-02-27",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 70,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 25,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-07-23",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 80,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-04",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 80,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-02-27",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-10",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-04",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 75,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 60,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-03-22",
+      "last_seen": "2017-09-06",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-04",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-02-08",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 30,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-31",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-11",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-01",
+      "last_seen": "2017-09-06",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 40,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-06",
+      "last_seen": "2017-09-06",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-04-12",
+      "last_seen": "2017-09-06",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-11",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-04-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-05",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-02-27",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-04-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 70,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-06",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 30,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-03",
+      "last_seen": "2017-09-04",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-22",
+      "last_seen": "2017-09-07",
+      "promotion_type": "dollar-off",
+      "value": 10,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-07",
+      "last_seen": "2017-09-04",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-04-20",
+      "last_seen": "2017-09-07",
+      "promotion_type": "dollar-off",
+      "value": 150,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-05-05",
+      "last_seen": "2017-09-07",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-30",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2016-11-18",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 10,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Winter Codes",
+      "first_seen": "2017-08-25",
+      "last_seen": "2017-09-07",
+      "promotion_type": "free-shipping",
+      "value": null,
+      "webshop_id": "winter"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-03",
+      "last_seen": "2017-09-06",
+      "promotion_type": null,
+      "value": null,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-08-28",
+      "last_seen": "2017-09-04",
+      "promotion_type": "percent-off",
+      "value": 50,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-09-07",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 65,
+      "webshop_id": "summer"
+    },
+    {
+      "country_code": "us",
+      "coupon_webshop_name": "Summer Codes",
+      "first_seen": "2017-04-25",
+      "last_seen": "2017-09-07",
+      "promotion_type": "percent-off",
+      "value": 20,
+      "webshop_id": "summer"
+    }
+  ],
+  "msg": "Coupons"
+}

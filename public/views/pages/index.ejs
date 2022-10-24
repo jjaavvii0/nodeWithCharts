@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <%- include('../partials/head'); %>
+</head>
+<body>
+
+    <main>
+        <h1>Análisis y visualización de datos</h1>
+
+        <hr>
+        <section class="cols-2">
+
+            <figure>
+                <h2>Cupones por WebShop</h2>
+                <canvas id="chartCouponsOccurrences"></canvas>
+            </figure>
+            <figure>
+                <h2>Descuentos aplicados por tipo de promoción:
+                    <select id="changeDataSecondChart">
+                        <option value="percent-off">percent-off</option>
+                        <option value="dollar-off">dollar-off</option>
+                    </select>
+                </h2>
+                <canvas id="chartPromotionValuesOccurrences"></canvas>
+            </figure>
+
+        </section>
+
+        <section class="cols-2">
+            <figure>
+                <h2>Tipos de promoción usados:</h2>
+                <canvas id="chartPromotionKeysOcurrences"></canvas>
+            </figure>
+            <figure>
+                <h2>Valores máximo, mínimo y promedio:</h2>
+                <canvas id="chartMinMaxAverage"></canvas>
+            </figure>
+        </section>
+
+    </main>
+  <script type="module" src="../../js/dataAnalyzer.js"></script>
+  <script type="module" src="../../js/chartsPrinter.js"></script>
+
+</body>
+<footer><%- include('../partials/footer'); %></footer>
+
+  
+</html>
