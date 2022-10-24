@@ -1,6 +1,6 @@
 # analisisVisualizacion
 
-This project was created using Node.js
+It's an old project that I want to share. This project was created using Node.js.
 
 First of all it's necessary install dependencies using `npm install`
 
